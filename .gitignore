@@ -7,17 +7,16 @@ test-results
 *.suo
 *.cache
 
-# the solution and project files SHOULD be included ???
-# *.sln
-# *.csproj
-
 *~
 *.swp
 *.userprefs
 *.pidb
 
-# compile settings. is dit nodig?
-Properties
+# compile settings, solution and project
+# dit moet wel naar github om het project meteen te kunnen openen in xamarin
+# *.sln
+# *.csproj
+# Properties
 
 # dit is monogame
 packages
