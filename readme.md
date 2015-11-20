@@ -1,6 +1,6 @@
 # Cat Piano
 
-## This is a Monogame Xamarin project that shows:
+## This is a Monogame Xamarin tutorial about:
 
 - How to work with a separate world.cs class 
 - How to read keyboard input and play sounds
@@ -21,12 +21,11 @@
 - Open the solution file with Xamarin. This should automatically generate the needed files that aren't in the github repository.
 - The project should now be able to compile.
 
-- If you want to keep using git you can, but if you want to push, you'll need to set a new origin: `git remote set-url origin https://github.com/USERNAME/OTHERREPOSITORY.git`
-- Or you can just delete the hidden .git folder
+_(Now you can just delete the hidden .git folder, or else you'll need to update the git origin:  `git remote set-url origin https://github.com/USERNAME/OTHERREPOSITORY.git`)_
 
-### Just copy the files
+### Simply copy the files
 
-If the solution file won't open or won't generate a working project:
+If the solution won't compile or you encounter some incomprehensible error:
 
 - Create a new empty Visual Studio or Xamarin solution named "CatPiano"
 - Download this repository as a zip
