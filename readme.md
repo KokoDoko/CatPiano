@@ -1,6 +1,6 @@
 # Cat Piano
 
-## This is a Xamarin project that shows:
+## This is a Monogame Xamarin project that shows:
 
 - How to work with a separate world.cs class 
 - How to read keyboard input and play sounds
