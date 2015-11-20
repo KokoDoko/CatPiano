@@ -7,13 +7,13 @@
 
 ## How to use
 
-- Open a terminal in your projects folder and type git clone https://github.com/KokoDoko/CatPiano.git
+- Open a terminal in your projects folder and type `git clone https://github.com/KokoDoko/CatPiano.git`
 - Open the solution file with Xamarin. This should automatically generate the needed files that aren't in the github repository.
 
 ### Visual Studio
 
-If the above does not work, or if you work with Visual Studio, you can also:
+If the above does not work (I have not yet tested with Visual Studio), you can:
 
 - Create a new VS or Xamarin solution named "CatPiano"
 - Download the repository as a zip
-- Copy the .cs files and everything in the Content folder from the zip file to your new empty project.
+- Copy the .cs files, images and sounds from the zip file to the corresponding folder in your empty project.
