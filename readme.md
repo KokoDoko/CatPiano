@@ -18,7 +18,9 @@
 
 - Open a terminal in your projects folder and type `git clone https://github.com/KokoDoko/CatPiano.git` 
 - Open the solution file with Xamarin. This should automatically generate the needed files that aren't in the github repository.
-- If you want to keep using git you have to change the origin to another url
+- The project should now be able to compile.
+
+- If you want to keep using git you can, but if you want to push, you'll need to set a new origin: `git remote set-url origin https://github.com/USERNAME/OTHERREPOSITORY.git`
 - Or you can just delete the hidden .git folder
 
 ### Just copy the files
