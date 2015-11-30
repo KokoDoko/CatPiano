@@ -13,7 +13,8 @@
 - Open a terminal in your projects folder and type `git clone https://github.com/_your_own_folder/CatPiano.git` 
 - Open the solution file with Xamarin. This should automatically generate the needed files that aren't in the github repository.
 - The project should now be able to compile!
-- You can now push your own changes back to github - either from the terminal, or straight from Xamarin (after adding your github credentials to Xamarin)
+
+_(You can now push your own changes back to github, and even propose that the change is added to the original project by issuing a pull request)_
 
 ### Without your own github account
 
