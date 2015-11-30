@@ -10,6 +10,8 @@ namespace CatPiano
 	{
 		private GraphicsDeviceManager 	_graphics;
 		private SpriteBatch 			_spriteBatch;
+
+		// here we will create a world instance
 		private World 					_world;
 
 		public Game1 ()
