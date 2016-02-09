@@ -31,3 +31,4 @@ If the solution won't compile or you encounter some incomprehensible error:
 - Create a new empty Visual Studio or Xamarin solution named "CatPiano"
 - Download this repository as a zip
 - Copy the .cs files, images and sounds from the zip file to the corresponding folder in your empty project.
+- Within Visual Studio or Xamarin, choose: 'Add Files' to add the files to your project.
